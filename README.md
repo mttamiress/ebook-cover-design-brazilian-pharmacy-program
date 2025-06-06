@@ -44,7 +44,7 @@ O feedback indicou que a primeira versão tinha elementos competindo pela atenç
 ### Versão 3: O Refinamento de Marketing (Resultado Final)
 A etapa final foi estratégica, visando o objetivo do cliente. A adição do ano **"2025"** ao título foi um ajuste de marketing crucial para comunicar o principal benefício do guia: conteúdo atualizado. Esta pequena mudança aumenta drasticamente a percepção de valor e relevância do produto.
 
-![Capa Final](/assets/farmacia-popular-cover-v1.png.png)
+![Capa Final](/assets/farmacia-popular-cover-v3.png.png)
 
 
 ---
